@@ -18,7 +18,7 @@ Ltpa1 does not raise any Exceptions, but instead returns Optionals.
 
 If you need to debug an issue, set `traceEnabled` to true to get printed stacktraces.
 
-If you rather learn by example, the [test](./src/test/java/biz/webgate/domino/ltpa/test/TestLtpa1) is a good start.
+If you rather learn by example, the [test](./src/test/java/biz/webgate/domino/ltpa/test/TestLtpa1.java) is a good start.
 
 ### Configuration
 
